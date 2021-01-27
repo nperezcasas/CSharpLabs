@@ -1,0 +1,12 @@
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\bin\Debug\netcoreapp3.1\ABSTRACT_CLASSES.exe
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\bin\Debug\netcoreapp3.1\ABSTRACT_CLASSES.deps.json
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\bin\Debug\netcoreapp3.1\ABSTRACT_CLASSES.runtimeconfig.json
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\bin\Debug\netcoreapp3.1\ABSTRACT_CLASSES.runtimeconfig.dev.json
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\bin\Debug\netcoreapp3.1\ABSTRACT_CLASSES.dll
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\bin\Debug\netcoreapp3.1\ABSTRACT_CLASSES.pdb
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\obj\Debug\netcoreapp3.1\ABSTRACT_CLASSES.AssemblyInfoInputs.cache
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\obj\Debug\netcoreapp3.1\ABSTRACT_CLASSES.AssemblyInfo.cs
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\obj\Debug\netcoreapp3.1\ABSTRACT_CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\obj\Debug\netcoreapp3.1\ABSTRACT_CLASSES.dll
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\obj\Debug\netcoreapp3.1\ABSTRACT_CLASSES.pdb
+C:\Users\cmerritt\Desktop\CS_F2020\COMS 201 - F2020\Week 04\ABSTRACT_CLASSES\obj\Debug\netcoreapp3.1\ABSTRACT_CLASSES.genruntimeconfig.cache
