@@ -1,0 +1,25 @@
+C:/COMS201/PROJECTS/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.exe
+C:/COMS201/PROJECTS/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.deps.json
+C:/COMS201/PROJECTS/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.runtimeconfig.json
+C:/COMS201/PROJECTS/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.runtimeconfig.dev.json
+C:/COMS201/PROJECTS/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.dll
+C:/COMS201/PROJECTS/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.pdb
+C:/COMS201/PROJECTS/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.csprojAssemblyReference.cache
+C:/COMS201/PROJECTS/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.AssemblyInfoInputs.cache
+C:/COMS201/PROJECTS/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.AssemblyInfo.cs
+C:/COMS201/PROJECTS/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.csproj.CoreCompileInputs.cache
+C:/COMS201/PROJECTS/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.dll
+C:/COMS201/PROJECTS/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.pdb
+C:/COMS201/PROJECTS/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.genruntimeconfig.cache
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.csprojAssemblyReference.cache
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.AssemblyInfoInputs.cache
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.AssemblyInfo.cs
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.csproj.CoreCompileInputs.cache
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.dll
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.pdb
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.deps.json
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.runtimeconfig.json
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.runtimeconfig.dev.json
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.dll
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/bin/Debug/netcoreapp3.1/COMS201_LAB_03.pdb
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_03/obj/Debug/netcoreapp3.1/COMS201_LAB_03.genruntimeconfig.cache
