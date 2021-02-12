@@ -1,0 +1,6 @@
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_1/COMS201_LAB_1/obj/Debug/COMS201_LAB_1.csprojAssemblyReference.cache
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_1/COMS201_LAB_1/obj/Debug/COMS201_LAB_1.csproj.CoreCompileInputs.cache
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_1/COMS201_LAB_1/bin/Debug/COMS201_LAB_1.exe
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_1/COMS201_LAB_1/bin/Debug/COMS201_LAB_1.pdb
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_1/COMS201_LAB_1/obj/Debug/COMS201_LAB_1.exe
+/Users/nuriapc/Desktop/BLC/Fall 2020/COMS 201/COMS201_LAB_1/COMS201_LAB_1/obj/Debug/COMS201_LAB_1.pdb

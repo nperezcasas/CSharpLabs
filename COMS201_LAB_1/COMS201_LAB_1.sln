@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMS201_LAB_1", "COMS201_LAB_1\COMS201_LAB_1.csproj", "{652DB18A-7AE5-4EF2-88AF-BDBBD3F05F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{652DB18A-7AE5-4EF2-88AF-BDBBD3F05F22}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{652DB18A-7AE5-4EF2-88AF-BDBBD3F05F22}.Debug|anycpu.Build.0 = Debug|anycpu
+		{652DB18A-7AE5-4EF2-88AF-BDBBD3F05F22}.Release|anycpu.ActiveCfg = Release|anycpu
+		{652DB18A-7AE5-4EF2-88AF-BDBBD3F05F22}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
